@@ -1,3 +1,7 @@
+## About
+
+A simple React app that consumes the Unsplash API to return images. The Unsplash API Client ID has not been checked into the reposistory.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
